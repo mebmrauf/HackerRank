@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/a-very-big-sum
+# https://www.hackerrank.com/challenges/a-very-big-sum
 
 def aVeryBigSum(ar):
     return sum(ar)
